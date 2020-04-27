@@ -18,3 +18,5 @@ hex_bw <- function(hex_code) {
    
 }
 
+## Implementing R version answer for this question https://stackoverflow.com/questions/3942878/how-to-decide-font-color-in-white-or-black-depending-on-background-color
+
